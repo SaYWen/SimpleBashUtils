@@ -1,0 +1,23 @@
+1991: The Linux kernel is publicly announced on 25 August by the 21-year-old Finnish student Linus Benedict Torvalds.[14] Version 0.01 is released publicly on 17 September. [62]
+1992: The Linux kernel is relicensed under the GNU GPI. The first Linux distributions are created.
+1993: Over 100 developers work on the Linux kernel. With their assistance the kernel is adapted to the GNU environment, which creates a large spectrum of application types for Linux. The oldest currently existing Linux distribution, Slackware, is released for the first time. later in the same year, the Debian project is established. Today it is the largest community distribution.
+1994: Torvalds judges all components of the kernel to be fully matured: he releases version 1.0 of Linux. The XFree86 project contributes a graphical user interface (GUI). Commercial Linux distribution makers Red Hat and SUSE publish version 1.0 of their Linux distributions.
+1995: Linux is ported to the DEC Alpha and to the Sun SPARC. Over the following years it is ported to an ever-greater number of platforms.
+1996: Version 2.0 of the Linux kernel is released. The kernel can now serve several processors at the same time using symmetric multiprocessing (SMP), and thereby becomes a serious alternative for many companies.
+1998: Many major companies such as IBM, Compaq and Oracle announce their support for Linux. The Cathedral and the Bazaar is first published as an essay (later as a book), resulting in Netscape publicly releasing the source code to its Netscape Communicator web browser suite. Netscape's actions and crediting of the essay[63] brings Linux's open source development model to the attention of the popular technical press. In addition a group of programmers begins developing the graphical user interface KDE.
+1999: A group of developers begin work on the graphical environment GNOME, destined to become a free replacement for KDE, which at the time, depended on the then proprietary Qt toolkit. During the year IBM announces an extensive project for the support of Linux. Version 2.2 of the Linux kernel is released.
+2000: Dell announces that it is now the No. 2 provider of Linux-based systems worldwide and the first major manufacturer to offer Linux across its full product line.[64]
+2001: Version 2.4 of the Linux kernel is released.
+2002: The media reports that "Microsoft killed Dell Linux"[65]
+2003: Version 2.6 of the Linux kernel is released.
+2004: The XFree86 team splits up and joins with the existing X standards body to form the X.Org Foundation, which results in a substantially faster development of the X server for Linux.
+2005: The project openSUSE begins a free distribution from Novell's community. Also the project OpenOffice.org introduces version 2.0 that then started supporting OASIS OpenDocument standards.
+2006: Oracle releases its own distribution of Red Hat Enterprise Linux. Novell and Microsoft announce cooperation for a better interoperability and mutual patent protection.
+2007: Dell starts distributing laptops with Ubuntu pre-installed on them.
+2009: Red Hat's market capitalization equals Sun's, interpreted as a symbolic moment for the "Linux-based economy".[66]
+2011: Version 3.0 of the Linux kernel is released.
+2012: The aggregate Linux server market revenue exceeds that of the rest of the Unix market.[67]
+2013: Google's Linux-based Android claims 75% of the smartphone market share, in terms of the number of phones shipped.[68]
+2014: Ubuntu claims 22,000,000 users.[69]
+2015: Version 4.0 of the Linux kernel is released.[70]
+2019: Version 5.0 of the Linux kernel is released.[71]
