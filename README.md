@@ -1,4 +1,3 @@
-# SimpleBashUtils
 ![BASH](./images/bash.jpeg)
 
 **The program is its own implementation of the bash utilities cat and grep.**
